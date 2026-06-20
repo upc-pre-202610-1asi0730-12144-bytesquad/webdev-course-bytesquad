@@ -22,7 +22,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://youtu.be/zhacAgFF7Ns)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
@@ -32,22 +32,24 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://youtu.be/9_Uu5GwXqvM)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=Gsn0_nYJibA)
+- **Enlace**: [Ver Lección]()
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0730-12144-spottrack/webdev-course-spottrack)
 - **Todas las Actividades Prácticas**:
+
 | Lección # | Actividad | Empezar a Programar |
 |-----------|-----------|----------------------|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+| 3 | Añadir imágenes | [CodePen](https://codepen.io/Carla-Gallardo-the-reactor/pen/BypWdQp) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://codepen.io/Carla-Gallardo-the-reactor/pen/LExGGMq) |
+| 5 | Página de perfil | [Codepen](https://codepen.io/Carla-Gallardo-the-reactor/pen/LExGGMq) |
+
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
 ---
