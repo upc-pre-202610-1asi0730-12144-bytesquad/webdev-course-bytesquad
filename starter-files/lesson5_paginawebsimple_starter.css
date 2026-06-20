@@ -1,0 +1,47 @@
+body {
+  /* 1. Color de fondo de la página (usa nombre o código hex) */
+  background-color: 
+  font-family: Arial, sans-serif;
+  /* 2. Alinea el texto al centro */
+  text-align: 
+}
+
+.tarjeta {
+  /* 3. Color de fondo de la tarjeta */
+  background-color: 
+  /* 4. Redondea las esquinas (en px) */
+  border-radius: 
+  /* 5. Espacio interno entre el contenido y el borde (en px) */
+  padding: 
+  /* 6. Ancho de la tarjeta (en px) */
+  width: 
+  /* 7. Espacio externo arriba/abajo + centrado horizontal */
+  margin: 
+  /* 8. Sombra de la tarjeta (offset-x offset-y blur color) */
+  box-shadow: 
+}
+
+img {
+  /* 9. Usa 50% para lograr un círculo perfecto */
+  border-radius: 
+  /* 10. Ancho de la imagen (en px) */
+  width: 
+}
+
+h1 {
+  /* 11. Color del encabezado principal */
+  color: 
+}
+
+a {
+  /* 12. Color del texto del enlace */
+  color: 
+  /* 13. Color de fondo del enlace (efecto botón) */
+  background-color: 
+  /* 14. Esquinas redondeadas del botón */
+  border-radius: 
+  /* 15. Espacio interno arriba/abajo e izquierda/derecha */
+  padding: 
+  /* 16. Quita el subrayado del enlace */
+  text-decoration: 
+}

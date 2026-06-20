@@ -1,0 +1,31 @@
+body {
+  background-color:#CFE0FF;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.tarjeta {
+  background-color: white;
+  border-radius: 15px;
+  padding:35px;
+  width:300px;
+  margin: 30px auto;
+  box-shadow: 0 4px 10px gray;
+}
+
+img {
+  border-radius: 50%;
+  width: 150px;
+}
+
+h1 {
+  color: #5c6bc0;
+}
+
+a {
+  color: white;
+  background-color:#D6BBF0;
+  border-radius: 8px;
+  padding: 10px 16px;
+  text-decoration: none;
+}
