@@ -41,13 +41,13 @@ requiere descargas!** Solo abre tu navegador web.
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0730-12144-spottrack/webdev-course-spottrack)
 - **Todas las Actividades Prácticas**:
-<br>| Lección # | Actividad | Empezar a Programar |
-<br>|-----------|-----------|----------------------|
-<br>| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-<br>| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-<br>| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-<br>| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-<br>| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+| Lección # | Actividad | Empezar a Programar |
+|-----------|-----------|----------------------|
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
+| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
+| 5 | Página de perfil | [Replit](https://codepen.io/Carla-Gallardo-the-reactor/pen/LExGGMq) |
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
 ---
@@ -60,9 +60,11 @@ requiere descargas!** Solo abre tu navegador web.
 <br>**Nombre del equipo**: SpotTrack
 <br>**Líder del equipo**: [Nombres y Apellidos del líder]
 <br>**Integrantes del equipo**: 
-- Fernandez Linares, Alvaro ()
-- Gamero Lui()
+
+- Espinoza Orrego, Valentino Andre (u202410344)
+- Fernandez Linares, Alvaro Sebastian (u202414928)
+- Gamero Miranda, Lui Mathias (u202419335)
 - Gallardo Morales, Carla Alejandra (u202414970)
-- Ramirez , Valentino ()
+
 
 <br> **Fecha de entrega**: 21/06/2026
