@@ -46,9 +46,9 @@ requiere descargas!** Solo abre tu navegador web.
 |-----------|-----------|----------------------|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [CodePen](https://codepen.io/Carla-Gallardo-the-reactor/pen/BypWdQp) |
+| 3 | Añadir imágenes | [CodePen](https://codepen.io/guest134/pen/BypWdQp) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Codepen](https://codepen.io/Carla-Gallardo-the-reactor/pen/LExGGMq) |
+| 5 | Página de perfil | [Codepen](https://codepen.io/guest134/pen/LExGGMq) |
 
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
