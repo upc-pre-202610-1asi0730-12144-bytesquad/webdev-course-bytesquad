@@ -6,7 +6,7 @@ requiere descargas!** Solo abre tu navegador web.
 <br>**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 <br>**Prerrequisitos**: Ninguno
 <br>**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-<br>**📂 Repositorio de código fuente**: [https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-spottrack](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-spottrack)
+<br>**📂 Repositorio de código fuente**: [hhttps://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad)
 
 ## Secuencia de la lección
 
@@ -20,7 +20,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/YZ12fhBt2w0?si=3wXPY9Z_8uzkFTSy)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/EI-Jefe/pen/pvReZpN) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡No necesitas registrarte!**
 
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
@@ -32,7 +32,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/nfWa8OcMNI4?si=12udarfe9F8_eK2E)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/EI-Jefe/pen/xbgVgeR) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
@@ -44,7 +44,6 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://youtu.be/J9GB-8n1BMw)
 - **Consejos Clave**: Experimenta, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad)
@@ -52,10 +51,10 @@ requiere descargas!** Solo abre tu navegador web.
 
 | Lección # | Actividad | Empezar a Programar |
 |-----------|-----------|----------------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/) |
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/pen/) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/EI-Jefe/pen/pvReZpN) |
 | 3 | Añadir imágenes | [CodePen](https://codepen.io/guest134/pen/BypWdQp) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/) |
+| 4 | Estilo de la página | [CodePen](https://codepen.io/EI-Jefe/pen/xbgVgeR) |
 | 5 | Página de perfil | [Codepen](https://codepen.io/guest134/pen/LExGGMq) |
 
 - Compartir: #WebDevBeginners
