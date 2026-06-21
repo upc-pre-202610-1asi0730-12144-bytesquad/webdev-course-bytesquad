@@ -11,7 +11,7 @@ requiere descargas!** Solo abre tu navegador web.
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de código fuente**: [hhttps://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad)
+**📂 Repositorio de código fuente**: [https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad)
 
 ## Secuencia de la lección
 
