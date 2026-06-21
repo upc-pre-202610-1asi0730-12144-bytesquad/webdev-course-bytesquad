@@ -6,11 +6,11 @@ requiere descargas!** Solo abre tu navegador web.
 <br>**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 <br>**Prerrequisitos**: Ninguno
 <br>**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-<br>**📂 Repositorio de código fuente**: [https://github.com/upc-pre-202610-1asi0730-12144-spottrack/webdev-course-spottrack](https://github.com/upc-pre-202610-1asi0730-12144-spottrack/webdev-course-spottrack)
+<br>**📂 Repositorio de código fuente**: [https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-spottrack](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-spottrack)
 ## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (3-5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/N48QvY8Tsds)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 ### Lección 2: Introducción a HTML (10 minutos)
@@ -33,21 +33,21 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://youtu.be/2DpxPly5SOo)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/) 👈 **¡Guarda y comparte!**
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
+### Lección 6: Consejos y Próximos Pasos (3-5 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección]()
-- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
+- **Enlace**: [Ver Lección](https://youtu.be/J9GB-8n1BMw)
+- **Consejos Clave**: Experimenta, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0730-12144-spottrack/webdev-course-spottrack)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad)
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad | Empezar a Programar |
 |-----------|-----------|----------------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/) |
 | 3 | Añadir imágenes | [CodePen](https://codepen.io/guest134/pen/BypWdQp) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
+| 4 | Estilo de la página | [CodePen](https://codepen.io/) |
 | 5 | Página de perfil | [Codepen](https://codepen.io/guest134/pen/LExGGMq) |
 
 - Compartir: #WebDevBeginners
@@ -60,12 +60,11 @@ requiere descargas!** Solo abre tu navegador web.
 <br>1ASI0730 Aplicaciones Web
 <br>NRC: 12144
 <br>**Nombre del equipo**: SpotTrack
-<br>**Líder del equipo**: [Nombres y Apellidos del líder]
+<br>**Líder del equipo**: Fernandez Linares, Alvaro Sebastian
 <br>**Integrantes del equipo**: 
 
 - Espinoza Orrego, Valentino Andre (u202410344)
 - Fernandez Linares, Alvaro Sebastian (u202414928)
-- Gamero Miranda, Lui Mathias (u202419335)
 - Gallardo Morales, Carla Alejandra (u202414970)
 
 
