@@ -1,1 +1,1 @@
-# webdev-course-byteguard
+# webdev-course-bytesquad
