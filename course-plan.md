@@ -2,11 +2,16 @@
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No
 requiere descargas!** Solo abre tu navegador web.
-<br> **Duración total**: ~60 minutos
-<br>**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-<br>**Prerrequisitos**: Ninguno
-<br>**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-<br>**📂 Repositorio de código fuente**: [hhttps://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad)
+
+ **Duración total**: ~60 minutos
+ 
+**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+
+**Prerrequisitos**: Ninguno
+
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+
+**📂 Repositorio de código fuente**: [hhttps://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad](https://github.com/upc-pre-202610-1asi0730-12144-bytesquad/webdev-course-bytesquad)
 
 ## Secuencia de la lección
 
@@ -33,6 +38,10 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://youtu.be/nfWa8OcMNI4?si=12udarfe9F8_eK2E)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
+
+
+
+
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
@@ -62,17 +71,25 @@ requiere descargas!** Solo abre tu navegador web.
 ---
 ## 👥 Elaboración
  Universidad Peruana de Ciencias Aplicadas
-<br>Carrera de Ingeniería de Software
-<br>Período 202610
-<br>1ASI0730 Aplicaciones Web
-<br>NRC: 12144
-<br>**Nombre del equipo**: SpotTrack
-<br>**Líder del equipo**: Fernandez Linares, Alvaro Sebastian
-<br>**Integrantes del equipo**: 
+ 
+Carrera de Ingeniería de Software
+
+Período 202610
+
+1ASI0730 Aplicaciones Web
+
+NRC: 12144
+
+**Nombre del equipo**: SpotTrack
+
+**Líder del equipo**: Fernandez Linares, Alvaro Sebastian
+
+**Integrantes del equipo**: 
 
 - Espinoza Orrego, Valentino Andre (u202410344)
 - Fernandez Linares, Alvaro Sebastian (u202414928)
 - Gallardo Morales, Carla Alejandra (u202414970)
 
 
-<br> **Fecha de entrega**: 21/06/2026
+
+**Fecha de entrega**: 21/06/2026
