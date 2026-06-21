@@ -15,9 +15,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/YZ12fhBt2w0?si=3wXPY9Z_8uzkFTSy)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/EI-Jefe/pen/pvReZpN) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://youtu.be/0XzIDZrGtao)
@@ -25,9 +25,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://youtu.be/nfWa8OcMNI4)
+- **Enlace**: [Ver la lección](https://youtu.be/nfWa8OcMNI4?si=12udarfe9F8_eK2E)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/EI-Jefe/pen/xbgVgeR) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://youtu.be/2DpxPly5SOo)
